@@ -1,2 +1,2 @@
 # SPUTNIK
-A wifi pentesting tool
+A report writing tool
