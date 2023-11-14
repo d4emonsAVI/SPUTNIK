@@ -1,2 +1,2 @@
 # SPUTNIK
-A report writing tool
+A recon and report creation tool
